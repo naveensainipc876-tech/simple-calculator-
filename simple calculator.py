@@ -7,7 +7,7 @@ choice=input("enter your choice +-*/")
 if choice=="+":
      print(a+b)
 elif choice=="-":
-     print(a+b)
+     print(a-b)
 elif choice=="*":
      print(a*b)
 elif choice=="/":
